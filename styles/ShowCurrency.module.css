@@ -1,0 +1,13 @@
+.boxStyle{
+  padding: 10;
+  margin-bottom: 20;
+}
+.row{
+  justify-content: center;
+}
+.header{
+  color: cornflowerblue;
+}
+.danger{
+  color: red;
+}
